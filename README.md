@@ -1,2 +1,2 @@
-# Gestion-de-stock
+# gestion-de-stock
 mon premier github
